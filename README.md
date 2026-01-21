@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Suhani Saxena</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | TypeScript | Next.js | Python</h3>
+<h1 align="center">🌸 Hi, I'm Suhani Saxena 🌸</h1>
 
 <p align="center">
-  <a href="mailto:saxenasuhani606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suhani-saxena-054a37297">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+A <b>Full Stack Web Developer</b> who enjoys building scalable, real-world applications using modern web technologies 🚀  
+<br/><br/>
+I focus on writing <b>clean code</b>, designing <b>intuitive user experiences</b>, and solving problems with clarity and purpose ✨  
+<br/><br/>
+Blending logic with creativity, I aim to create products that are not just functional — but meaningful 💡
+</p>
+
+<p align="center">
+<i>Fun fact:</i> I believe debugging is just problem-solving in disguise 🐞🛠️  
+<br/>
+Always open to learning, collaborating, and building something impactful 💖
 </p>
 
 ---
 
 ## 🔥 About Me
 
-- 🎓 **3rd Year Student** at *Institute of Engineering and Technology (IET), DAVV*
-- 💻 Full Stack Web Developer (MERN Stack)
-- ⚡ Strong in **TypeScript, Next.js, React & Node.js**
-- 🧠 Enjoy building scalable, real-time applications
-- 🚀 Passionate about learning modern web technologies
-- 🎯 Motto: **Learn. Build. Improve.**
+- 🎓 **3rd Year Undergraduate** at *Institute of Engineering & Technology (IET), DAVV*
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- ⚙️ Experienced with **TypeScript, Next.js, and modern React**
+- 🌱 Constantly learning and exploring new tools & frameworks
+- 🤝 Enjoy teamwork, collaboration, and community-driven projects
+- 🎯 Goal: Build reliable, scalable, and user-centric web applications
 
 ---
+
 ## ⚡ Tech Stack
 
 ### Languages
@@ -39,31 +44,29 @@
 ### Dev Tools
 `Git` · `GitHub` 
 
-
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 - 📧 Email: **saxenasuhani606@gmail.com**
 - 💼 LinkedIn: [Suhani Saxena](https://www.linkedin.com/in/suhani-saxena-054a37297)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Thanks for stopping by! Feel free to explore my repositories and connect with me.*
