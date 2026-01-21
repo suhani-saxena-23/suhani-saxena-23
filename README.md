@@ -22,41 +22,24 @@
 - 🎯 Motto: **Learn. Build. Improve.**
 
 ---
+## ⚡ Tech Stack
 
-## 🚀 Tech Stack
+### Languages
+`C/C++` · `Python` · `TypeScript` · `HTML/CSS`
 
-### 👩‍💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
+### Frontend
+`React.js` · `Next.js` · `Redux` · `React Router` · `Tailwind CSS` · `Bootstrap`
 
----
+### Backend
+`Node.js` · `Express.js` · `Socket.io`
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+### Databases & Cloud
+`MongoDB` · `MySQL` · `Convex` · `Cloudinary` · `ImageKit`
 
----
+### Dev Tools
+`Git` · `GitHub` 
 
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io)
 
----
-
-### 🗄 Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Convex](https://img.shields.io/badge/Convex-000000?style=flat)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary)
-![ImageKit](https://img.shields.io/badge/ImageKit-02B3E4?style=flat)
 
 ---
 
