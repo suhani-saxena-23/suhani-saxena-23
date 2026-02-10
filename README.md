@@ -8,11 +8,7 @@ I focus on writing <b>clean code</b>, designing <b>intuitive user experiences</b
 Blending logic with creativity, I aim to create products that are not just functional — but meaningful 💡
 </p>
 
-<p align="center">
-<i>Fun fact:</i> I believe debugging is just problem-solving in disguise 🐞🛠️  
-<br/>
-Always open to learning, collaborating, and building something impactful 💖
-</p>
+
 
 ---
 
